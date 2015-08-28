@@ -1,2 +1,2 @@
-# Tic-tac-toe
-My version of Tic-tac-toe
+# tic-tac-toe
+My version of tic-tac-toe
